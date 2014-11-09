@@ -1,4 +1,6 @@
-fightapp
-========
+wsgame
+======
 
-test
+WebSocket Golang game
+
+Demo: http://bombixgame.com
